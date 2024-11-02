@@ -1,0 +1,57 @@
+ <!DOCTYPE html>
+ <html> 
+ <head> 
+ <title>My First Web Page</title> 
+ </head>
+ <style>table,tr, td{border:1px solid black}</style> 
+ <body> <table style="width: 100%"> 
+ <tr> 
+ <td>
+ <img src="https://media.istockphoto.com/id/1129874863/photo/books-on-display- in-the-corner-of-a-second-hand-bookstore.jpg? 5=1024x1024&w=is&k=20&c=ycJZFkmBwZH9U2Q4uCe0a21hvmfbgXzE_BibZ0Cd10=" alt="Book Store" width="400" height="200"></td> 
+ <h1><center>Online Book Store</h1> 
+ </tr> 
+ <tr> 
+ <td>Home</td> 
+ <td>Login</td> 
+ <td>Registration</td> 
+ <td>Catalogue</td> 
+ <td>Cart</td> 
+ </tr> 
+ <tr> 
+ <td>CSE</td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ <tr> 
+ <td>AIML<td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ <tr> 
+ <td>DS</td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ <tr> 
+ <td>IT</td> 
+ <td></td> 
+ <td></td> 
+ <td></td>
+ <td></td> 
+ </tr> 
+ <tr> 
+ <td>EC</td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ <td></td> 
+ </tr> 
+ </table> 
+ </body>
+
+ </html>
